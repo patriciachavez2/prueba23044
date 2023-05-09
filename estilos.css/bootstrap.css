@@ -1,0 +1,65 @@
+.barraNavegacion {
+    background-color: rgb(42, 40, 40);
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    color:aliceblue;
+    height: 50px;
+    padding:15px;
+    
+}
+
+.carousel-item img {
+    filter: brightness(60%)
+}
+
+
+a {
+     text-decoration: none;
+     color: aliceblue;
+     font-size:x-small;
+}
+
+.tickes {
+    border-radius: 3px;
+}
+
+.steve{
+    width: 100%;
+}
+
+.con {
+    text-align: center;
+    font-size: medium;
+}
+
+.ora{
+    text-align: center;
+    font-size:30px;
+}
+
+
+   
+.playaMastexto{
+    width: 90%; 
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: rgb(49, 47, 47);
+    color:aliceblue;
+}
+
+.honololu {
+    width: 100%;
+   
+}
+
+#comentario {
+    width: 70%;
+   border-style: double;
+   border-color: black;
+}
+.envio {
+    width: 20%;
+    background-color:rgb(56, 212, 240);
+}
