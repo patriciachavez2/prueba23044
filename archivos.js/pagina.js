@@ -1,5 +1,7 @@
 
 
+
+
 function calcularPrecioTotal() {
     console.log("ingreso a calcularPrecioTotal");
 
