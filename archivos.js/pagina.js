@@ -9,7 +9,7 @@ function calcularPrecioTotal() {
     let cantEnt=document.getElementById("cantEntradas").value;
     console.log("cantEnt: " + cantEnt);
 
-    document.getElementById("titulo").innerHTML="Comprar " + cantEnt + " entradas."
+   
 
     //en porcDesc almaceno el descuento que seleccionó el usuario
     let porcDesc=document.getElementById("porcDescuento").value;
